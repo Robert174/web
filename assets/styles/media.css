@@ -1,0 +1,654 @@
+@media (max-width: 1900px) {
+}
+
+@media (max-width: 1800px) {
+}
+
+@media (max-width: 1700px) {
+}
+
+@media (max-width: 1600px) {
+}
+
+@media (max-width: 1500px) {
+  .left-item-block{
+    margin-left: 35.5%;
+  }
+}
+
+@media (max-width: 1400px) {
+}
+
+@media (max-width: 1300px) {
+  .header-logo,
+  .header-pickup-container {
+    flex-basis: 20%;
+  }
+
+  .header-nav-container {
+    flex-basis: 100%;
+  }
+}
+
+@media (max-width: 1200px) {
+  .ready-form-inputs{
+    flex-direction: column;
+  }
+  html {
+    font-size: 13px;
+  }
+}
+
+@media (max-width: 1100px) {
+
+  .education-item__line{
+    right: 49.4%;
+    height: 450px;
+  }
+
+  .shibina-line{
+    height: 220px;
+  }
+
+  .medvedchikova-line{
+    height: 140px;
+  }
+
+  .marker-last-child-hitrova{
+    margin-top: 12px;
+  }
+
+  .skudnova-line{
+    height: 1000px;
+  }
+
+  .last-line-skudnova{
+    height: 18%;
+  }
+
+  .hitrova-line{
+    height: 22%;
+  }
+
+  .shayahmetova-line, .panaiotidi-line{
+    height: 260px;
+  }
+
+  .left-item-block{
+    margin-left: 35.5%;
+  }
+  .right-item-block{
+    margin-right: 55%;
+  }
+  .guar-columns{
+    width: 80%;
+    margin: auto;
+    margin-top: 5%;
+    padding-left: 15%;
+  }
+  .review, .review-list {
+    width: 100%;
+  }
+  .reviews-arrow-denisova{
+    padding-bottom: 25%;
+  }
+  .header-nav-container {
+    display: none;
+  }
+  .header {
+    justify-content: space-around;
+  }
+
+  .footer {
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+
+  .footer-nav {
+    order: -1;
+    justify-content: center;
+    width: 100%;
+    min-width: unset;
+    flex-wrap: wrap;
+  }
+
+  .footer-logo {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 1000px) {
+  .container-specs {
+    padding-bottom: 30px;
+  }
+  .container-main {
+    background-position-y: 30px;
+  }
+  .specs-specs {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .specs-photos {
+    margin-bottom: 30px;
+  }
+
+  .specs-description__description {
+    margin: 20px 0;
+  }
+
+  .specs-work {
+    margin-bottom: 20px;
+  }
+  .specs-work-text {
+    justify-content: center;
+    padding: 0 10px 15px;
+  }
+
+  .specs-work-text br {
+    display: none;
+  }
+
+  .specs-work-column {
+    flex: 1;
+    height: 35%;
+    justify-content: flex-start;
+  }
+
+  .specs-work-col-icon,
+  .specs-work-col-text {
+    flex: unset;
+  }
+
+  .categories-slide__title {
+    font-size: 4rem;
+    letter-spacing: 0.5rem;
+  }
+  .categories-slide__description {
+    font-size: 2rem;
+  }
+}
+@media (max-width: 900px) {
+  .categories-slide {
+    background-position-y: -40px;
+  }
+
+  .support-columns {
+    flex-direction: column;
+  }
+
+  .support-column--first {
+    margin-right: 0;
+    display: flex;
+    justify-content: center;
+  }
+
+  .support-column-image {
+    display: flex;
+    justify-content: center;
+  }
+}
+@media (max-width: 800px) {
+  .direct-shayahmetova{
+    width: 100%;
+  }
+  .education-item__line{
+    height: 450px;
+    right: 49.1%;
+  }
+
+  .shibina-line{
+    height: 220px;
+  }
+
+  .medvedchikova-line{
+    height: 140px;
+  }
+
+  .nushtaikina-line{
+    height: 400px;
+  }
+
+  .education-item{
+    width: 50%
+  }
+
+  .skudnova-line{
+    height: 1000px;
+  }
+
+  .shayahmetova-line{
+    height: 270px;
+  }
+
+  .panaiotidi-line{
+    height: 23.6%;
+  }
+
+  .left-item-block{
+    margin-left: 50%;
+  }
+
+  .right-item-block{
+    margin-right: 50%;
+  }
+
+  .work-col{
+    margin-left: 40px;
+    align-items: center;
+  }
+
+  .work-col-head {
+    width: 400px;
+  }
+
+  .works-columns{
+    flex-direction: column;
+  }
+
+  .specs-work{
+    flex-direction: column;
+    padding-top: 0
+  }
+
+  .review, .review-list, {
+    width: 640px;
+  }
+
+  .reviews-arrow-denisova{
+    padding-bottom: 33%;
+  }
+
+  .choiceList {
+    margin-left: 10%;
+  }
+
+  html {
+    font-size: 12px;
+  }
+}
+@media (max-width: 700px) {
+  html {
+    font-size: 11px;
+  }
+  .main-title__text {
+    font-size: 4rem;
+  }
+
+  .main-description {
+    padding-top: 20%;
+  }
+
+  .works-columns {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+@media (max-width: 600px) {
+  .categories-slide{
+    padding-bottom: 40%;
+  }
+  .specs-photos__current {
+    width: 300px;
+    height: 299px;
+  }
+
+  .specs-photos:before {
+    width: 303px;
+    height: 303px;
+  }
+
+  .specs-photoslist {
+    /* max-height: 300px; */
+  }
+
+  .specs-photos__current {
+    margin-right: 20px;
+  }
+
+  .specs-photo {
+    width: 60px;
+    height: 60px;
+  }
+
+  .specs-photo {
+    margin-bottom: 10px;
+  }
+
+  .specs-info {
+    flex-direction: column;
+  }
+
+  .specs-info-column {
+    margin-bottom: 10px;
+  }
+
+  .advantages-columns {
+    flex-direction: column;
+  }
+
+  .advantage-col__brand {
+    font-size: 14rem;
+    text-align: center;
+  }
+
+  .advantage-col__list-item {
+    margin-bottom: 15px;
+  }
+  .wrapper-header__text {
+    margin-bottom: 20px;
+    font-size: 3.7rem;
+    margin-top: 20px;
+  }
+
+  .container-advantages {
+    padding-top: 100px;
+    background-position-y: -80px;
+    padding-bottom: 100px;
+  }
+
+  .categories-slide__title {
+    font-size: 3rem;
+  }
+  .categories-slide__description {
+    font-size: 1.5rem;
+    line-height: 2rem;
+  }
+  .problems-list {
+    flex-direction: column;
+  }
+}
+@media (max-width: 500px) {
+
+  .wrapper{
+    padding: 0;
+  }
+  .support-column-list-item{
+    padding: 0 25px;
+    margin-bottom: 0
+  }
+  .container-specs{
+    padding-top: 0;
+  }
+  .guar-columns{
+    margin-top: 40px;
+  }
+  .guar-col {
+    align-items: center;
+  }
+  .guar-col-title {
+    flex-direction: unset;
+    justify-content: center;
+  }
+  .guar-col-descr {
+    text-align: center;
+  }
+  .work-col__description{
+    width: 79%;
+  }
+  .specs-description__description{
+    margin-bottom: 0;
+  }
+  .specs-work {
+    margin-top: 40px;
+  }
+  .main-columns{
+    flex-wrap: unset;
+    flex-direction: column;
+  }
+  .main-column{
+    margin-bottom: 15px;
+  }
+  .education-item{
+    width: 90%;
+  }
+  .main-title__text {
+    font-size: 3rem;
+  }
+
+  .cost-columns {
+    flex-direction: column;
+  }
+  .cost-col:nth-child(2) {
+    border-left: none;
+    border-right: none;
+    border-bottom: 2px solid rgba(78, 199, 207, 0.2);
+  }
+
+  .cost-col {
+    border-bottom: 2px solid rgba(78, 199, 207, 0.2);
+  }
+  .categories-slide__title {
+    font-size: 2rem;
+    margin-top: 30%;
+  }
+
+  .categories-nav__arrow--right {
+    margin-left: 40px;
+  }
+
+  .categories-nav__arrow--left {
+    margin-right: 40px;
+  }
+
+  .review__image {
+    width: 90px;
+    height: 90px;
+    margin-bottom: 30px;
+  }
+
+  .review__name {
+    margin-bottom: 20px;
+  }
+  .reviews-arrow {
+    padding: 0 25px;
+    position: absolute;
+    top: 80px;
+  }
+
+  .reviews-arrow:last-child {
+    right: 0;
+  }
+
+  .footer-develop, .footer-sign, .footer-logo {
+    margin-top: 5%;
+  }
+  .education-item__marker{
+    left: 5%;
+  }
+
+  .education-item__line{
+    right:  92.5%;
+    height: 450px;
+  }
+
+  .shibina-line{
+    height: 210px;
+  }
+
+  .medvedchikova-line{
+    height: 140px;
+  }
+
+  .skudnova-line{
+    height: 1000px;
+  }
+
+  .hitrova-line, .shayahmetova-line, .nushtaikina-line{
+    height: 230px;
+  }
+
+  .marker-last-child-hitrova{
+    margin-top: 24px;
+  }
+
+  .right-item-block, .left-item-block{
+    text-align: unset;
+    margin-right: 0%;
+    margin-left: 0%;
+  }
+
+  .profile-description-item{
+    margin-left: 10px;
+  }
+
+  .profile-description__text{
+    margin-right: 40px;
+    padding-left: 15%;
+  }
+
+  .profile-spec{
+    margin-top: 40%
+  }
+}
+@media (max-width: 400px) {
+
+  .education-item__line{
+    right: 92%;
+    height: 450px;
+  }
+
+  .shibina-line{
+    height: 210px;
+  }
+
+  .medvedchikova-line{
+    height: 140px;
+  }
+  .nushtaikina-line{
+    height: 400px;
+  }
+
+  .guar-columns{
+        padding-left: 0;
+  }
+
+  .header {
+    flex-direction: column;
+  }
+
+  .header-logo {
+    margin-bottom: 10px;
+  }
+
+  .main-title__text {
+    font-size: 2.5rem;
+    padding-bottom: 4rem;
+    padding-top: 3rem;
+  }
+
+  .specs-photos {
+    flex-direction: column;
+  }
+
+  .specs-photo {
+    margin-right: 10px;
+  }
+
+  .specs-photos__current {
+    margin-right: 0;
+  }
+
+  .specs-photoslist {
+    flex-direction: row;
+  }
+
+  .specs-description__button {
+    font-size: 1.3rem;
+  }
+
+  .guar-col-title br {
+    display: none;
+  }
+
+  .guar-col-image {
+    margin-bottom: 0;
+    justify-content: center;
+    display: flex;
+  }
+
+  .guar-col-title {
+    align-items: center;
+    text-align: center;
+  }
+
+  .guar-col-descr {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+
+  .work-col-head {
+    padding: 0 15px;
+  }
+
+  .profile-description__text {
+    padding-left: 11%;
+  }
+  .profile-spec{
+    margin-top: 60%
+  }
+
+  .marker-last-child{
+    margin-top: 12px;
+  }
+
+  .skudnova-line{
+    height: 1000px;
+  }
+
+  .hitrova-line, .shayahmetova-line {
+    height: 240px;
+  }
+
+  .marker-last-child-hitrova{
+    margin-top: 30px;
+  }
+
+  .footer-nav{
+    min-width: auto;
+  }
+}
+@media (max-width: 350px) {
+
+  .education-item__line{
+    right: 91.7%;
+    height: 450px;
+  }
+
+  .shibina-line{
+    height: 210px;
+  }
+
+  .kudinova-line{
+    height: 210px;
+  }
+
+  .medvedchikova-line{
+    height: 140px;
+  }
+
+  .wrapper-header__text {
+    margin-bottom: 35px;
+    font-size: 3rem;
+  }
+
+  .profile-description {
+    padding-top: 0;
+  }
+
+  .main-column__text{
+    white-space: normal;
+  }
+
+  .review{
+    width: 100%;
+  }
+
+  .shayahmetova-line{
+    height: 270px;
+  }
+
+  .skudnova-line{
+    height: 1000px;
+  }
+}
